@@ -2,6 +2,8 @@
 
 Binary classification model to predict whether a tumor is **Benign** or **Malignant**, with a deployed REST API.
 
+🎓 *Tuwaiq Academy AI Bootcamp (2026)*
+
 ## Dataset
 - Breast Cancer Wisconsin — 569 samples, 30 features
 - Source: `sklearn.datasets.load_breast_cancer`
